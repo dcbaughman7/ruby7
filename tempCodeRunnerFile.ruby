@@ -1,2 +1,2 @@
-puts 7
-
+puts "newt"
+puts "Scamaander"
